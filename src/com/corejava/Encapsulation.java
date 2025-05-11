@@ -40,6 +40,9 @@ public class Encapsulation {
         this.email = email;
     }
 
+}
+
+class EncapsulationMain {
     public static void main(String[] args) {
         Encapsulation encapsulation = new Encapsulation();
         encapsulation.setId(1);
